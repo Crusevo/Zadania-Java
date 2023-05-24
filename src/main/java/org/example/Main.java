@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        Zadanie6.zad6();
+        Zadanie7.zad7();
 
 
 
